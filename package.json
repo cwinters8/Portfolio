@@ -1,0 +1,23 @@
+{
+  "name": "treehouse-fsjs-project6",
+  "version": "1.0.0",
+  "description": "Static Node.js and Express Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwinters8/Treehouse-FSJS-Project6.git"
+  },
+  "author": "Clark Winters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwinters8/Treehouse-FSJS-Project6/issues"
+  },
+  "homepage": "https://github.com/cwinters8/Treehouse-FSJS-Project6#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
