@@ -178,3 +178,9 @@ a:hover{
   color: white;
   cursor: pointer;
 }
+
+.stack {
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}

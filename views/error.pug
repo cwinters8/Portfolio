@@ -1,11 +1,11 @@
 extends layout.pug
 
 block body
-        .error
-            if status === 404
-                img(src="/static/images/404robot.jpg")
-            else
-                h1 Uh-oh...
-                h2= `${status}: ${message}`
-                p #{stack}
-            button Go home
+    .error
+        if error.status === 404
+            img(src="/static/images/404robot.jpg")
+        else
+            h1 Uh-oh...
+            h2= `${error.status}: ${error.message}`
+        button Go home
+    p.stack #{error.stack}
