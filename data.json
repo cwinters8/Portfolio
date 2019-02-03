@@ -8,8 +8,8 @@
             "live_link" : "https://cwinters8.github.io/Random-Quote-Generator/",
             "github_link" : "https://github.com/cwinters8/Random-Quote-Generator",
             "image_urls" : [
-                "../images/RQG_square.html",
-                "../images/RQG_rectangle.html"
+                "../images/RQG_square.png",
+                "../images/RQG_rectangle.png"
             ]
         },
         {
@@ -20,10 +20,24 @@
             "live_link" : "https://cwinters8.github.io/Pagination-and-Filtering/",
             "github_link" : "https://github.com/cwinters8/Pagination-and-Filtering",
             "image_urls" : [
-                "../images/LPF_square.html",
-                "../images/LPF_rectangle1.html",
-                "../images/LPF_rectangle2.html",
-                "../images/LPF_rectangle_filter.html"
+                "../images/LPF_square.png",
+                "../images/LPF_rectangle1.png",
+                "../images/LPF_rectangle2.png",
+                "../images/LPF_rectangle_filter.png"
+            ]
+        },
+        {
+            "id" : 2,
+            "project_name" : "Full Stack Conf Registration",
+            "description" : "Interactive form to register for 'Full Stack Conf'",
+            "technologies" : ["jQuery", "JavaScript", "HTML", "CSS"],
+            "live_link" : "https://cwinters8.github.io/FullStackConf-Registration/",
+            "github_link" : "https://github.com/cwinters8/FullStackConf-Registration",
+            "image_urls" : [
+                "../images/FSC_square.png",
+                "../images/FSC_rectangle1.png",
+                "../images/FSC_rectangle2.png",
+                "../images/FSC_rectangle3.png"
             ]
         }
     ]
