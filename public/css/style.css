@@ -148,3 +148,33 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.error {
+  text-align: center;
+}
+
+.error img, .error button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.error img {
+  height: 80vh;
+}
+
+.error button {
+  margin-top: 10px;
+  padding: 10px;
+  color: rgb(128, 128, 128);
+  font-weight: bold;
+  border: 2px solid rgb(128, 128, 128);
+  border-radius: 20px;
+  transition: 800ms;
+}
+
+.error button:hover {
+  background-color: rgb(128, 128, 128);
+  color: white;
+  cursor: pointer;
+}
