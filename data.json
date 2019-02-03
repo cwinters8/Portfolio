@@ -1,0 +1,30 @@
+{
+    "projects" : [
+        {
+            "id" : 0,
+            "project_name" : "Random Quote Generator",
+            "description" : "Generates a random quote to be displayed to the user. Changes to a new quote after 10 seconds or when the user clicks the 'Show Another Quote' button.",
+            "technologies" : ["JavaScript", "HTML", "CSS"],
+            "live_link" : "https://cwinters8.github.io/Random-Quote-Generator/",
+            "github_link" : "https://github.com/cwinters8/Random-Quote-Generator",
+            "image_urls" : [
+                "../images/RQG_square.html",
+                "../images/RQG_rectangle.html"
+            ]
+        },
+        {
+            "id" : 1,
+            "project_name" : "Pagination and Filtering",
+            "description" : "Uses unobtrusive JavaScript to paginate a list of students so there are only 10 per page. Also adds filtering functionality to enable the user to search for students.",
+            "technologies" : ["JavaScript", "HTML", "CSS"],
+            "live_link" : "https://cwinters8.github.io/Pagination-and-Filtering/",
+            "github_link" : "https://github.com/cwinters8/Pagination-and-Filtering",
+            "image_urls" : [
+                "../images/LPF_square.html",
+                "../images/LPF_rectangle1.html",
+                "../images/LPF_rectangle2.html",
+                "../images/LPF_rectangle_filter.html"
+            ]
+        }
+    ]
+}
