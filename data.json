@@ -29,7 +29,7 @@
         {
             "id" : 2,
             "project_name" : "Full Stack Conf Registration",
-            "description" : "Interactive form to register for 'Full Stack Conf'",
+            "description" : "Interactive form to register for 'Full Stack Conf', a fictional developer conference. This app utilizes jQuery and JavaScript to dynamically update certain areas of the form and validate user input.",
             "technologies" : ["jQuery", "JavaScript", "HTML", "CSS"],
             "live_link" : "https://cwinters8.github.io/FullStackConf-Registration/",
             "github_link" : "https://github.com/cwinters8/FullStackConf-Registration",
