@@ -184,3 +184,15 @@ a:hover{
   margin-left: 20px;
   margin-right: 20px;
 }
+
+p.text-light a {
+  -webkit-text-transform: unset;
+  text-transform: unset;
+  letter-spacing: unset;
+  font-family: unset;
+  cursor: pointer;
+}
+
+p.text-light a:hover {
+  color: #999;
+}
