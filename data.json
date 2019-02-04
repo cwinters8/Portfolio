@@ -39,6 +39,20 @@
                 "/static/images/FSC_rectangle2.png",
                 "/static/images/FSC_rectangle3.png"
             ]
+        },
+        {
+            "id" : 3,
+            "project_name" : "Phrase Hunter",
+            "description" : "A game show app built to demonstrate proficiency with object oriented programming. After starting the game, the player can guess letters until they either guess the phrase or lose. The player is allowed five incorrect guesses.",
+            "technologies" : ["jQuery", "JavaScript", "HTML", "CSS"],
+            "live_link" : "https://cwinters8.github.io/Phrase-Hunter/",
+            "github_link" : "https://github.com/cwinters8/Phrase-Hunter",
+            "image_urls" : [
+                "/static/images/PH_square.png",
+                "/static/images/PH_game.png",
+                "/static/images/PH_won.png",
+                "/static/images/PH_lost.png"
+            ]
         }
     ]
 }
