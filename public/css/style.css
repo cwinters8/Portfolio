@@ -196,3 +196,9 @@ p.text-light a {
 p.text-light a:hover {
   color: #999;
 }
+
+.listhead {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif !important;
+}
