@@ -32,6 +32,7 @@ h1,h2,h3,h4,h5,p{
 
 .button{
   background-color: #333;
+  transition: 800ms;
 }
 
 .button:hover{
@@ -40,6 +41,7 @@ h1,h2,h3,h4,h5,p{
 
 a{
   color: #333;
+  transition: 400ms;
 }
 
 a:hover{
@@ -76,6 +78,7 @@ a:hover{
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
+    transition: 400ms;
   }
 
   .portfolio-me a:hover{
@@ -191,10 +194,12 @@ p.text-light a {
   letter-spacing: unset;
   font-family: unset;
   cursor: pointer;
+  color: #999;
+  transition: 400ms;
 }
 
 p.text-light a:hover {
-  color: #999;
+  color: white;
 }
 
 .listhead {
