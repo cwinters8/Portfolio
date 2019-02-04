@@ -19,7 +19,7 @@ app.use('/static', express.static('public'));
  ******************/
 // home page
 app.get('/', (req, res) => {
-    res.render('index', data.projects);
+    res.render('index', {projects: data.projects});
 });
 
 // about page
@@ -30,7 +30,7 @@ app.get('/about', (req, res) => {
 // projects
 data.projects.forEach((project, index) => {
     app.get(`/project/${project.id}`, (req, res) => {
-        res.render('project', data.projects[index]);
+        res.render('project', {project});
     });
 });
 // in case a user navigates directly to /project

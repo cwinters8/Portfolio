@@ -8,8 +8,8 @@
             "live_link" : "https://cwinters8.github.io/Random-Quote-Generator/",
             "github_link" : "https://github.com/cwinters8/Random-Quote-Generator",
             "image_urls" : [
-                "../images/RQG_square.png",
-                "../images/RQG_rectangle.png"
+                "/static/images/RQG_square.png",
+                "/static/images/RQG_rectangle.png"
             ]
         },
         {
@@ -20,10 +20,10 @@
             "live_link" : "https://cwinters8.github.io/Pagination-and-Filtering/",
             "github_link" : "https://github.com/cwinters8/Pagination-and-Filtering",
             "image_urls" : [
-                "../images/LPF_square.png",
-                "../images/LPF_rectangle1.png",
-                "../images/LPF_rectangle2.png",
-                "../images/LPF_rectangle_filter.png"
+                "/static/images/LPF_square.png",
+                "/static/images/LPF_rectangle1.png",
+                "/static/images/LPF_rectangle2.png",
+                "/static/images/LPF_rectangle_filter.png"
             ]
         },
         {
@@ -34,10 +34,10 @@
             "live_link" : "https://cwinters8.github.io/FullStackConf-Registration/",
             "github_link" : "https://github.com/cwinters8/FullStackConf-Registration",
             "image_urls" : [
-                "../images/FSC_square.png",
-                "../images/FSC_rectangle1.png",
-                "../images/FSC_rectangle2.png",
-                "../images/FSC_rectangle3.png"
+                "/static/images/FSC_square.png",
+                "/static/images/FSC_rectangle1.png",
+                "/static/images/FSC_rectangle2.png",
+                "/static/images/FSC_rectangle3.png"
             ]
         }
     ]
