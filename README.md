@@ -15,6 +15,3 @@ CSS
 - Remove stack trace from 404 error page
 - Remove example-html
 - Maybe a lot of design changes
-
-## Credits
-The majority of the HTML and CSS were provided by [Team Treehouse](http://referrals.trhou.se/clarkwinters).
