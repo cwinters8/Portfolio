@@ -3,7 +3,7 @@ extends layout.pug
 block body
     .error
         if error.status === 404
-            img(src="/static/images/404robot_transparent.png")
+            img(src="/static/images/404robot_transparent.jpg")
         else
             h1 Uh-oh...
             h2= `${error.status}: ${error.message}`
