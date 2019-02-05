@@ -164,6 +164,9 @@ a:hover{
 
 .error img {
   height: 80vh;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  object-fit: scale-down;
 }
 
 .error button {

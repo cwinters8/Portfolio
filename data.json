@@ -53,6 +53,20 @@
                 "/static/images/PH_won.png",
                 "/static/images/PH_lost.png"
             ]
+        },
+        {
+            "id" : 4,
+            "project_name" : "Employee Directory",
+            "description" : "A mock employee directory for 'Awesome Startup'.",
+            "technologies" : ["jQuery", "AJAX", "JavaScript", "HTML", "CSS"],
+            "live_link" : "https://cwinters8.github.io/Employee-Directory/",
+            "github_link" : "https://github.com/cwinters8/Employee-Directory",
+            "image_urls" : [
+                "/static/images/ED_square.png",
+                "/static/images/ED_main.png",
+                "/static/images/ED_profile.png",
+                "/static/images/ED_filter.png"
+            ]
         }
     ]
 }
