@@ -15,6 +15,8 @@ npm start
 
 Then you can navigate to http://localhost:3000/ in your browser.
 
+Alternatively, you can simply visit the live site [here](https://portfolio-cw.herokuapp.com/).
+
 ## Technologies Used
 
 Express  
@@ -27,6 +29,7 @@ CSS
 
 - Remove stack trace from 404 error page
 - Remove example-html
+- Turn the profile image into a link to get back to the home page
 
 ## Style Changes
 
