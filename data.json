@@ -67,6 +67,20 @@
                 "/static/images/ED_profile.png",
                 "/static/images/ED_filter.png"
             ]
+        },
+        {
+            "id" : 5,
+            "project_name" : "Image Gallery",
+            "description" : "An image gallery built with React. The images are generated from the Flickr API. The app is deployed on Netlify, using a Netlify Lambda function to generate the images with the API key",
+            "technologies" : ["React", "React Router", "JavaScript", "Lambda", "CSS"],
+            "live_link" : "https://react-image-gallery.netlify.com/",
+            "github_link" : "https://github.com/cwinters8/React-Gallery",
+            "image_urls" : [
+                "/static/images/RIG_square.png",
+                "/static/images/RIG_main.png",
+                "/static/images/RIG_search.png",
+                "/static/images/RIG_computers.png"
+            ]
         }
     ]
 }
