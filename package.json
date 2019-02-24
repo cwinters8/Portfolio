@@ -19,7 +19,8 @@
   "homepage": "https://github.com/cwinters8/Portfolio#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "pug": "^2.0.3"
+    "pug": "^2.0.3",
+    "ssl-express-www": "^3.0.3"
   },
   "engines": {
     "node": "11.8"

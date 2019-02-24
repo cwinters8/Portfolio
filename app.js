@@ -1,4 +1,5 @@
 const express = require('express');
+const secure = require('ssl-express-www');
 const data = require('./data.json');
 const path = require('path');
 
@@ -12,6 +13,7 @@ const app = express();
 app.set('view engine', 'pug');
 
 // route for static files
+app.use(secure);
 app.use('/static', express.static('public'));
 
 /******************
