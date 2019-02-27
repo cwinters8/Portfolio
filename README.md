@@ -28,4 +28,3 @@ CSS
 ## Future Improvements
 
 - Remove stack trace from 404 error page
-- Turn the profile image into a link to get back to the home page
