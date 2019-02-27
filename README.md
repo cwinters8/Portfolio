@@ -15,7 +15,7 @@ npm start
 
 Then you can navigate to http://localhost:3000/ in your browser.
 
-Alternatively, you can simply visit the live site [here](https://portfolio-cw.herokuapp.com/).
+Alternatively, you can simply visit the live site [here](https://clarkwinters.com/).
 
 ## Technologies Used
 
@@ -28,13 +28,4 @@ CSS
 ## Future Improvements
 
 - Remove stack trace from 404 error page
-- Remove example-html
 - Turn the profile image into a link to get back to the home page
-
-## Style Changes
-
-- Changed font to Montserrat
-- Removed `text-transform: uppercase` property from h5 elements
-- Added transition duration to buttons and links
-- Added hover effect and shadow to page thumbnails
-- Added favicon
