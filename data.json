@@ -81,6 +81,20 @@
                 "/static/images/RIG_search.png",
                 "/static/images/RIG_computers.png"
             ]
+        },
+        {
+            "id" : 6,
+            "project_name" : "Library Manager",
+            "description" : "An app to manage library books, built to demonstrate proficiency utilizing databases with Node and Express.",
+            "technologies" : ["Sequelize", "PostgreSQL", "Express", "Node.js", "JavaScript", "Pug", "CSS"],
+            "live_link" : "https://library-manager-cw.herokuapp.com",
+            "github_link" : "https://github.com/cwinters8/Library-Manager",
+            "image_urls" : [
+                "/static/images/LM_square.png",
+                "/static/images/LM_main.png",
+                "/static/images/LM_new.png",
+                "/static/images/LM_pagination.png"
+            ]
         }
     ]
 }
